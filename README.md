@@ -1,4 +1,4 @@
-# EDUNET-WEEK-1
+# EDUNET
 Plant Disease Classification 
 
 **Dataset Structure:**
